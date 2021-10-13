@@ -1,0 +1,23 @@
+.container{
+  height: 100%;
+}
+
+.editContent{
+  display: flex;
+  height: 600px;
+  margin-top: 20px;
+  .editArea{
+    width: 750px;
+    border: 1px solid #ccc;
+  }
+  .translateArticle{
+    width: 750px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+  }
+
+  .editDetail{
+    margin-left: 20px;
+  }
+}

@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  .form{
+  border: 1px solid #ccc;
+  padding: 20px 50px;
+  .form-header{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 20px;
+    padding: 6px;
+    color: rgb(31, 160, 247);
+    border-bottom: 1px solid #ccc;
+  }
+  }
+}
